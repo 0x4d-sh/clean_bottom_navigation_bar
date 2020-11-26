@@ -7,7 +7,7 @@
 
 A clean and simple bottom navigation bar with smooth animation and Floating Action Button (FAB) added to the mix.
 
-Check out the source code of the package in the [/lib](https://github.com/0x4d-sh/clean-bottom-navigation-bar/lib) folder.
+Check out the source code of the package in the [/lib](https://github.com/0x4d-sh/clean_bottom_navigation_bar/tree/main/lib) folder.
 
 ## Preview (default mode)
 
@@ -53,7 +53,7 @@ bottomNavigationBar: CleanNavigationBar(
         ],
       ),
 ```
-For more information, please refer to the [example](https://github.com/0x4d-sh/clean-bottom-navigation-bar/example) folder.
+For more information, please refer to the [example](https://github.com/0x4d-sh/clean_bottom_navigation_bar/tree/main/example) folder.
 
 ## Customization
 The following variables have been set to allow configuration:
