@@ -58,16 +58,16 @@ For more information, please refer to the [example](https://github.com/0x4d-sh/c
 ## Customization
 The following variables have been set to allow configuration:
 
-bool **showFab** - To show/hide Floating Action Button (FAB)<br />
-int  **fab** - Set which index/tab should the FAB be shown <br />
-double **cornerRadius** - Set radius to add curves to the corner of the bottom navigation bar<br />
-double **barHeight** - Specify the bar height of the navigation bar<br />
-double **fabHeight** - Specify the offset of the FAB to keep inline with the navigation bar<br />
-double **indicatorHeight** - Set the height for indicator of active tab that is zooming left and right<br />
-Color **activeColor** - The primary colour for all icons and FAB <br />
-Color **tabColor** - The background colour of the navigation bar for all tabs <br />
-Color **indicatorColor** - The color of the indicator that is moving left and right<br />
-TextStyle **titleStyle** - To specify font, size and color of the text below icons<br />
+**showFab** - (bool) To show/hide Floating Action Button (FAB)<br />
+**fab** - (int) Set which index/tab should the FAB be shown <br />
+**cornerRadius** - (double) Set radius to add curves to the corner of the bottom navigation bar<br />
+**barHeight** - (double) Specify the bar height of the navigation bar<br />
+**fabHeight** - (double) Specify the offset of the FAB to keep inline with the navigation bar<br />
+**indicatorHeight** - (double) Set the height for indicator of active tab that is zooming left and right<br />
+**activeColor** - (Color) The primary colour for all icons and FAB <br />
+**tabColor** - (Color) The background colour of the navigation bar for all tabs <br />
+**indicatorColor** - (Color) The color of the indicator that is moving left and right<br />
+**titleStyle** - (TextStyle) To specify font, size and color of the text below icons<br />
 
 # Thank you
 This package was developed with reference to [Pedromassango](https://github.com/pedromassango/titled_navigation_bar)'s Titled Navigation bar.
