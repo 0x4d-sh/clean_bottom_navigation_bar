@@ -1,6 +1,6 @@
 
-![Pub](https://img.shields.io/pub/v/clean-bottom-navigation-bar) <a href="https://github.com/Solido/awesome-flutter">
-   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" />
+![Pub Version](https://img.shields.io/pub/v/clean_bottom_navigation_bar?style=for-the-badge) <a href="https://github.com/Solido/awesome-flutter">
+   <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=for-the-badge" />
 </a>
 
 # Clean Bottom Navigation Bar
